@@ -14,4 +14,4 @@ function split(str, a) {
   emp_a[ind] = k;
   return emp_a;
 }
-console.log(split("this is a string", " "));
+console.log(split("this is a string", " "))
